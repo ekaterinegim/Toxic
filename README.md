@@ -7,7 +7,7 @@
 1. **Клонируйте репозиторий:**
 
 ```bash
-git clone https://github.com/ваш_никнейм/имя_репозитория.git
+git clone [https://github.com/ваш_никнейм/имя_репозитория](https://github.com/ekaterinegim/Toxic).git
 ```
 
 2. **Перейдите в папку проекта:**
